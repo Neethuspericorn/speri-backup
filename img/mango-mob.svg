@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.291" height="56.734" viewBox="0 0 41.291 56.734">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-2.566" y1="2.635" x2="-2.555" y2="2.63" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="0.14" stop-color="#fff" stop-opacity="0.078"/>
+      <stop offset="0.61" stop-color="#fff" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="google-firebase-icon" transform="translate(0 0.004)">
+    <path id="Path_41637" data-name="Path 41637" d="M.05,45.773,7.032,1.089A1.289,1.289,0,0,1,9.443.677l7.22,13.471,2.879-5.48a1.293,1.293,0,0,1,2.286,0L41.315,45.773Z" transform="translate(-0.028 0)" fill="#ffa000"/>
+    <path id="Path_41638" data-name="Path 41638" d="M24.174,46.9,16.663,32.68.05,64.309Z" transform="translate(-0.028 -18.536)" fill="#f57c00"/>
+    <path id="Path_41639" data-name="Path 41639" d="M41.319,60.979l-5.35-33.1a1.289,1.289,0,0,0-2.182-.7L.05,60.979,18.715,71.446a3.87,3.87,0,0,0,3.77,0L41.319,60.979Z" transform="translate(-0.028 -15.206)" fill="#ffca28"/>
+    <path id="Path_41640" data-name="Path 41640" d="M35.941,12.676a1.289,1.289,0,0,0-2.182-.7l-6.7,6.714L21.8,8.668a1.293,1.293,0,0,0-2.286,0l-2.879,5.48L9.415.677A1.289,1.289,0,0,0,7,1.089L.022,45.773H0l.022.026L.2,45.89,33.746,12.308a1.293,1.293,0,0,1,1.307-.32,1.278,1.278,0,0,1,.879,1.017l5.3,32.8.052-.03-5.346-33.1ZM.082,45.713,7,1.409A1.282,1.282,0,0,1,8.06.335,1.3,1.3,0,0,1,9.415,1l7.22,13.471,2.879-5.48a1.293,1.293,0,0,1,2.286,0l5.16,9.809L.082,45.713Z" transform="translate(0 0)" fill="rgba(255,255,255,0.2)"/>
+    <path id="Path_41641" data-name="Path 41641" d="M22.5,115.509a3.87,3.87,0,0,1-3.77,0L.1,105.073l-.043.286,18.665,10.467a3.87,3.87,0,0,0,3.77,0l18.83-10.467-.048-.3L22.5,115.509Z" transform="translate(-0.034 -59.585)" fill="#a52714" opacity="0.2"/>
+    <g id="Group_57953" data-name="Group 57953" transform="translate(0.095 0.009)">
+      <path id="b" d="M36.014,12.7a1.3,1.3,0,0,0-.874-1.013,1.278,1.278,0,0,0-1.3.316l-6.675,6.714L21.92,8.694a1.286,1.286,0,0,0-2.277,0l-2.87,5.48L9.579.707a1.284,1.284,0,0,0-2.4.411L.22,45.782l18.6,10.462a3.845,3.845,0,0,0,3.757,0l18.76-10.462L36.014,12.7Z" transform="translate(-0.22 -0.026)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

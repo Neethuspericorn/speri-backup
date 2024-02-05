@@ -1,0 +1,300 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.why-spericorn {
+  padding: 100px 0px 120px;
+}
+@media (max-width: 1679px) {
+  .why-spericorn {
+    padding: 80px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .why-spericorn {
+    padding: 30px 0px;
+  }
+}
+.why-spericorn .heading-sec {
+  text-align: center;
+  max-width: 1206px;
+  margin: 0 auto;
+}
+@media (max-width: 1679px) {
+  .why-spericorn .heading-sec {
+    max-width: 1000px;
+  }
+}
+@media (max-width: 991px) {
+  .why-spericorn .heading-sec {
+    max-width: 100%;
+  }
+}
+.why-spericorn .heading-sec .sec-title {
+  padding-bottom: 10px;
+}
+.why-spericorn .heading-sec .sec-title, .why-spericorn .heading-sec .main-desc {
+  color: #08243E;
+}
+.why-spericorn .img-sec {
+  padding-top: 60px;
+}
+@media (max-width: 1679px) {
+  .why-spericorn .img-sec {
+    padding-top: 50px;
+  }
+}
+@media (max-width: 991px) {
+  .why-spericorn .img-sec {
+    padding-top: 30px;
+  }
+}
+.why-spericorn .img-sec .img-gallery img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 20px;
+}
+@media (max-width: 991px) {
+  .why-spericorn .img-sec .img-gallery img {
+    border-radius: 10px;
+  }
+}
+.why-spericorn .img-sec .two-img {
+  height: 342px;
+  margin-bottom: 20px;
+}
+@media (max-width: 1679px) {
+  .why-spericorn .img-sec .two-img {
+    height: 250px;
+  }
+}
+@media (max-width: 991px) {
+  .why-spericorn .img-sec .two-img {
+    height: 175px;
+  }
+}
+@media (max-width: 767px) {
+  .why-spericorn .img-sec .two-img {
+    height: 200px;
+  }
+  .why-spericorn .img-sec .two-img:last-child {
+    margin-bottom: 0;
+  }
+}
+.why-spericorn .img-sec .two-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.why-spericorn .img-sec .single-img {
+  height: 705px;
+}
+@media (max-width: 1679px) {
+  .why-spericorn .img-sec .single-img {
+    height: 522px;
+  }
+}
+@media (max-width: 991px) {
+  .why-spericorn .img-sec .single-img {
+    height: 372px;
+  }
+}
+@media (max-width: 767px) {
+  .why-spericorn .img-sec .single-img {
+    margin-top: 15px;
+    height: 200px;
+    margin-bottom: 15px;
+  }
+}
+
+.what-awits-you {
+  padding-bottom: 100px;
+}
+@media (max-width: 1679px) {
+  .what-awits-you {
+    padding-bottom: 80px;
+  }
+}
+@media (max-width: 991px) {
+  .what-awits-you {
+    padding-bottom: 50px;
+  }
+}
+.what-awits-you .items {
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .what-awits-you .items {
+    flex-direction: column-reverse;
+  }
+}
+.what-awits-you .left-img {
+  aspect-ratio: 1.5;
+  overflow: hidden;
+}
+.what-awits-you .left-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.what-awits-you .list-of-contents {
+  padding-left: 40px;
+}
+@media (max-width: 767px) {
+  .what-awits-you .list-of-contents {
+    padding-top: 0px;
+    padding-left: 0;
+  }
+}
+.what-awits-you .list-of-contents ul {
+  padding-inline-start: 20px;
+}
+.what-awits-you .list-of-contents ul li {
+  padding-bottom: 20px;
+}
+@media (max-width: 991px) {
+  .what-awits-you .list-of-contents ul li {
+    padding-bottom: 10px;
+  }
+}
+.what-awits-you .list-of-contents ul li:last-child() {
+  padding-bottom: 0;
+}
+
+.search-container {
+  position: relative;
+}
+
+#search-button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.search-bar {
+  display: none;
+  position: absolute;
+  top: 113%;
+  left: -230px;
+  width: 300px;
+  padding: 10px;
+  animation: slideIn 0.3s ease-out;
+}
+@media (max-width: 767px) {
+  .search-bar {
+    left: -150px;
+    width: 216px;
+  }
+}
+
+#search-bar input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+  border-radius: 33px;
+  border: 1px solid rgba(59, 123, 248, 0.2196078431);
+  background: rgba(59, 123, 248, 0.031372549);
+  margin: 0;
+  padding: 18px 8px;
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  #search-bar input {
+    padding: 12px 8px;
+  }
+}
+#search-bar input::-moz-placeholder {
+  font: normal normal 300 22px/35px "Titillium Web", sans-serif;
+  padding-left: 10px;
+}
+#search-bar input::placeholder {
+  font: normal normal 300 22px/35px "Titillium Web", sans-serif;
+  padding-left: 10px;
+}
+@media (max-width: 1679px) {
+  #search-bar input::-moz-placeholder {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+  #search-bar input::placeholder {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 1481px) {
+  #search-bar input::-moz-placeholder {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+  #search-bar input::placeholder {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 1281px) {
+  #search-bar input::-moz-placeholder {
+    font: normal normal 300 16px/28px "Titillium Web", sans-serif;
+  }
+  #search-bar input::placeholder {
+    font: normal normal 300 16px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 991px) {
+  #search-bar input::-moz-placeholder {
+    font: normal normal 300 14px/25px "Titillium Web", sans-serif;
+  }
+  #search-bar input::placeholder {
+    font: normal normal 300 14px/25px "Titillium Web", sans-serif;
+  }
+}
+
+#close-button {
+  padding: 8px;
+  cursor: pointer;
+  top: 21px;
+  right: 36px;
+  position: absolute;
+}
+@media (max-width: 767px) {
+  #close-button {
+    top: 13px;
+  }
+}
+
+.close {
+  padding: 8px;
+  cursor: pointer;
+  top: -2px;
+  right: 20px;
+  background: none;
+  border: none;
+  position: absolute;
+}
+
+.close:hover {
+  opacity: 1;
+}
+
+.close:before, .close:after {
+  position: absolute;
+  left: 15px;
+  content: " ";
+  height: 18px;
+  width: 2px;
+  background-color: rgba(59, 123, 248, 0.2196078431);
+}
+
+.close:before {
+  transform: rotate(45deg);
+}
+
+.close:after {
+  transform: rotate(-45deg);
+}

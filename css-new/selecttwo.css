@@ -1,0 +1,510 @@
+@charset "UTF-8";
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.hidden {
+  display: none;
+}
+
+.select2-results__option:before {
+  content: "";
+  display: inline-block;
+  position: relative;
+  height: 19px;
+  width: 19px;
+  border: 1px solid #A5A5A5;
+  background-color: #fff;
+  margin-right: 16px;
+  vertical-align: middle;
+}
+
+.select2-results__option[aria-selected=true]:before {
+  font: normal normal normal 14px/19px Titillium Web;
+  content: "✔";
+  color: #fff;
+  background-color: #3B7BF8;
+  border: 0;
+  display: inline-block;
+  padding-left: 3px;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+  background-color: #fff;
+}
+
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple {
+  border-radius: 4px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: default;
+  float: left;
+  margin-right: 5px;
+  margin-top: 5px;
+  padding: 0 5px;
+  width: 130px;
+}
+@media (max-width: 1679px) {
+  .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    width: 100px;
+  }
+}
+@media (max-width: 767px) {
+  .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    width: 100px;
+  }
+}
+
+.select2-container .select2-selection--multiple .select2-selection__rendered {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
+.select2-results__option {
+  font: normal normal normal 16px/24px Titillium Web;
+  letter-spacing: 0px;
+  color: #000000;
+  background-color: #fff;
+}
+@media (max-width: 1679px) {
+  .select2-results__option {
+    font-size: 15px;
+  }
+}
+@media (max-width: 767px) {
+  .select2-results__option {
+    font-size: 14px;
+  }
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.select2-container--open .select2-dropdown--below {
+  border: solid #EFEFEF 1px;
+  box-shadow: none;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #08243E transparent;
+  top: 0;
+  margin-top: 20px;
+}
+@media (max-width: 767px) {
+  .select2-container--open .select2-dropdown--below {
+    top: -17px;
+  }
+}
+.select2-container--open .select2-dropdown--below::-webkit-scrollbar {
+  width: 8px;
+}
+.select2-container--open .select2-dropdown--below::-webkit-scrollbar-thumb {
+  background: #08243E;
+  border-radius: 6px;
+  height: 5px;
+}
+.select2-container--open .select2-dropdown--below::-webkit-scrollbar-track {
+  border-radius: 6px;
+}
+.select2-container--open .select2-dropdown--below::-webkit-scrollbar-thumb:vertical {
+  height: 40px;
+}
+
+.select2-selection__rendered {
+  min-height: 50px;
+}
+
+.select2-container--default .select2-selection--multiple {
+  margin-bottom: 0px;
+  border: solid #EFEFEF 1px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+  background-color: #EFEFEF !important;
+  color: #707070 !important;
+  font: normal normal normal 15px/24px Titillium Web;
+  letter-spacing: 0px;
+}
+@media (max-width: 1679px) {
+  .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    font: normal normal normal 14px/24px Titillium Web;
+  }
+}
+@media (max-width: 767px) {
+  .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    font: normal normal normal 13px/24px Titillium Web;
+  }
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+  background-color: #EFEFEF !important;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected=true] {
+  background-color: #EFEFEF !important;
+  color: #707070 !important;
+}
+
+.select2-container--default .select2-search--inline .select2-search__field {
+  width: 100% !important;
+  padding: 14px 22px !important;
+}
+.select2-container--default .select2-search--inline .select2-search__field::-moz-placeholder {
+  font: normal normal normal 22px Titillium Web;
+  padding: 40px 20px 20px 20px;
+  color: #3B7BF8;
+}
+.select2-container--default .select2-search--inline .select2-search__field::placeholder {
+  font: normal normal normal 22px Titillium Web;
+  padding: 40px 20px 20px 20px;
+  color: #3B7BF8;
+}
+@media (max-width: 991px) {
+  .select2-container--default .select2-search--inline .select2-search__field::-moz-placeholder {
+    font-size: 14px;
+  }
+  .select2-container--default .select2-search--inline .select2-search__field::placeholder {
+    font-size: 14px;
+  }
+}
+
+.select2-container--default .select2-results > .select2-results__options {
+  height: 200px;
+  overflow-y: unset !important;
+}
+
+.select2-results__option {
+  padding: 20px 30px !important;
+  padding-right: 20px;
+  vertical-align: middle;
+  border-bottom: 1px solid #e3e3e3;
+}
+.select2-results__option:last-child {
+  border-bottom: none;
+}
+@media (max-width: 1679px) {
+  .select2-results__option {
+    padding: 6px 27px !important;
+  }
+}
+@media (max-width: 1481px) {
+  .select2-results__option {
+    padding: 6px 25px !important;
+  }
+}
+@media (max-width: 1281px) {
+  .select2-results__option {
+    padding: 6px 22px !important;
+  }
+}
+@media (max-width: 1199px) {
+  .select2-results__option {
+    padding: 6px 20px !important;
+  }
+}
+
+.select2-container .select2-results {
+  max-height: 200px;
+}
+
+.select2-results {
+  max-height: 200px;
+}
+
+.select2-choices {
+  min-height: 150px;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.industry-drop {
+  width: 200px;
+  position: absolute;
+  margin-left: -87px !important;
+}
+@media (max-width: 1679px) {
+  .industry-drop {
+    width: 180px;
+  }
+}
+@media (max-width: 579px) {
+  .industry-drop {
+    width: 90% !important;
+    margin-left: unset !important;
+    margin-bottom: 40px;
+  }
+}
+@media (max-width: 767px) {
+  .industry-drop {
+    width: 170px;
+    margin-left: unset !important;
+    margin-bottom: 40px;
+  }
+}
+@media (max-width: 991px) {
+  .industry-drop {
+    width: 200px;
+  }
+}
+
+.c-btn {
+  font: normal normal normal 22px Titillium Web;
+  letter-spacing: 0px;
+  color: #3B7BF8;
+  border: 1px solid #3B7BF8;
+  border-radius: 41px;
+  padding: 12px 52px;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff;
+  display: inline-block;
+}
+@media (max-width: 1679px) {
+  .c-btn {
+    font-size: 16px !important;
+  }
+}
+@media (max-width: 1281px) {
+  .c-btn {
+    font-size: 16px !important;
+  }
+}
+@media (max-width: 991px) {
+  .c-btn {
+    font-size: 14px !important;
+    padding: 10px 15px;
+  }
+}
+.c-btn::after {
+  z-index: 0;
+  transform: translateX(100%);
+  transition: none;
+  transition: transform 350ms ease;
+}
+.c-btn::before {
+  transform: translateX(-100%);
+  z-index: 1 !important;
+}
+.c-btn:hover::before {
+  transform: translateX(0);
+  transition: transform 350ms ease;
+}
+.c-btn:hover::after {
+  opacity: 1;
+  transform: translateX(0);
+  transition: transform 350ms 360ms ease;
+}
+.c-btn .arrow-right {
+  position: relative;
+}
+.c-btn .arrow-right::after {
+  position: absolute;
+  width: 10px;
+  right: -18px;
+  height: 10px;
+  border-top: 1px solid #3B7BF8;
+  border-left: 1px solid #3B7BF8;
+  content: "";
+  top: 11px;
+  display: block;
+  transform: rotate(225deg);
+}
+@media (max-width: 1679px) {
+  .c-btn .arrow-right::after {
+    top: 8px;
+    width: 8px;
+    height: 8px;
+  }
+}
+.c-btn span {
+  z-index: 5;
+  position: relative;
+  transition: color 350ms ease;
+}
+
+a {
+  text-decoration: none;
+}
+
+.year-select {
+  display: flex;
+  justify-content: end;
+}
+@media (max-width: 767px) {
+  .year-select {
+    justify-content: unset;
+  }
+}
+
+@media (max-width: 991px) {
+  .select2-container--open .select2-dropdown {
+    margin-left: 0px;
+    top: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .year-select {
+    margin-bottom: 40px;
+  }
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  letter-spacing: 0px;
+  color: #3B7BF8;
+  border: 1px solid #3B7BF8;
+  border-radius: 41px;
+  padding: 12px 52px;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff;
+  display: inline-block;
+}
+
+.select2-search--dropdown {
+  display: none !important;
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+  border: none !important;
+}
+
+.select2-container--default .select2-selection--multiple {
+  border: 1px solid transparent !important;
+}
+
+.life-at-drop .select2-selection--single .select2-selection__arrow {
+  margin-right: 24px;
+}
+.life-at-drop .select2-container .select2-selection--single .select2-selection__rendered {
+  position: relative;
+  padding-left: 49px;
+  padding-right: 35px;
+}
+@media (max-width: 1679px) {
+  .life-at-drop .select2-container .select2-selection--single .select2-selection__rendered {
+    padding-left: 40px;
+  }
+}
+.life-at-drop .select2-container .select2-selection--single .select2-selection__rendered::before {
+  position: absolute;
+  content: "Year";
+  top: 0px;
+  left: 2px;
+}
+@media (max-width: 1679px) {
+  .life-at-drop .select2-container .select2-selection--single .select2-selection__rendered::before {
+    top: 10px;
+    left: 2px;
+  }
+}
+@media (max-width: 991px) {
+  .life-at-drop .select2-container .select2-selection--single .select2-selection__rendered::before {
+    top: 12px;
+    left: 12px;
+  }
+}
+
+.case-drop .select2-container .select2-selection--single .select2-selection__rendered {
+  padding-right: 40px;
+}
+.case-drop .select2-container--default .select2-selection--single .select2-selection__arrow {
+  margin-right: 16px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  background: url("../img-new/chevron-down.svg");
+  background-repeat: no-repeat;
+  width: 24px;
+  margin-top: 18px;
+  margin-right: 30px;
+}
+@media (max-width: 1679px) {
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    width: 21px;
+  }
+}
+@media (max-width: 767px) {
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    margin-top: 13px !important;
+  }
+}
+@media (max-width: 991px) {
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    width: 17px;
+  }
+}
+@media (max-width: 1679px) {
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    margin-top: 15px;
+  }
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+  display: none !important;
+}
+
+.year-select.year-select .select2 {
+  border: 1px solid #3B7BF8;
+  border-radius: 40px;
+  overflow: clip;
+}
+@media (max-width: 767px) {
+  .year-select.year-select .select2 {
+    margin-bottom: 20px;
+  }
+}
+.year-select.year-select .select2-selection--single {
+  border: none !important;
+  height: 60px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+@media (max-width: 1679px) {
+  .year-select.year-select .select2-selection--single {
+    height: 50px;
+  }
+}
+@media (max-width: 767px) {
+  .year-select.year-select .select2-selection--single {
+    height: 40px;
+  }
+}
+.year-select.year-select .select2-selection__rendered {
+  line-height: 1;
+  color: #3B7BF8 !important;
+  display: flex;
+  align-items: center;
+  font: normal normal normal 22px/112px Titillium Web;
+}
+@media (max-width: 1679px) {
+  .year-select.year-select .select2-selection__rendered {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 1481px) {
+  .year-select.year-select .select2-selection__rendered {
+    font: normal normal 300 18px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 1281px) {
+  .year-select.year-select .select2-selection__rendered {
+    font: normal normal 300 16px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 991px) {
+  .year-select.year-select .select2-selection__rendered {
+    font: normal normal 300 14px/25px "Titillium Web", sans-serif;
+  }
+}

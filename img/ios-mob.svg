@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#98e4ff"/>
+      <stop offset="1" stop-color="#f1f8fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_58175" data-name="Group 58175" transform="translate(-325 -1899)">
+    <circle id="Ellipse_727" data-name="Ellipse 727" cx="75" cy="75" r="75" transform="translate(325 1899)" fill="url(#linear-gradient)"/>
+    <path id="Icon_awesome-apple" data-name="Icon awesome-apple" d="M42.837,34.258C42.81,29.3,45.055,25.55,49.6,22.791c-2.542-3.638-6.383-5.639-11.454-6.031-4.8-.379-10.047,2.8-11.968,2.8-2.028,0-6.68-2.664-10.331-2.664C8.3,17.017.281,22.913.281,34.907a33.7,33.7,0,0,0,1.947,10.98c1.731,4.963,7.978,17.133,14.5,16.93,3.408-.081,5.815-2.421,10.25-2.421,4.3,0,6.531,2.421,10.331,2.421,6.572-.095,12.225-11.156,13.874-16.133-8.817-4.151-8.344-12.17-8.344-12.427Zm-7.654-22.2a12.736,12.736,0,0,0,3.245-9.8,14.339,14.339,0,0,0-9.182,4.719,12.936,12.936,0,0,0-3.462,9.723c3.529.27,6.748-1.542,9.4-4.638Z" transform="translate(374.269 1936.464)" fill="#40bdff"/>
+  </g>
+</svg>

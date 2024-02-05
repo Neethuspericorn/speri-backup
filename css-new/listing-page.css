@@ -1,0 +1,180 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.banner.listing-banner {
+  background-image: url(../img-new/casestudy-banner.png);
+  max-height: 768px;
+}
+@media (max-width: 1679px) {
+  .banner.listing-banner {
+    max-height: 640px;
+  }
+}
+@media (max-width: 1481px) {
+  .banner.listing-banner {
+    max-height: 600px;
+  }
+}
+@media (max-width: 991px) {
+  .banner.listing-banner {
+    height: 300px;
+  }
+}
+.banner.listing-banner .bnr-left {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 0 !important;
+}
+@media (max-width: 991px) {
+  .banner.listing-banner .bnr-left br {
+    display: none;
+  }
+}
+.banner.listing-banner .bnr-left .bnr-title {
+  margin-bottom: 10px;
+}
+@media (max-width: 1679px) {
+  .banner.listing-banner .bnr-left .bnr-title {
+    font: normal normal 700 34px/28px "Titillium Web", sans-serif;
+  }
+}
+@media (max-width: 1281px) {
+  .banner.listing-banner .bnr-left .main-desc {
+    font: normal normal 300 14px/25px "Titillium Web", sans-serif;
+  }
+}
+
+.case-studies.listing {
+  padding-bottom: 0px;
+}
+.case-studies.listing .heading-sec {
+  padding-bottom: 50px;
+  align-items: normal;
+}
+@media (max-width: 479px) {
+  .case-studies.listing .heading-sec {
+    padding-bottom: 20px !important;
+  }
+}
+@media (max-width: 991px) {
+  .case-studies.listing .heading-sec {
+    padding-bottom: 0px;
+    align-items: normal;
+  }
+}
+@media (max-width: 767px) {
+  .case-studies.listing .heading-sec .left-sec {
+    width: 100% !important;
+  }
+}
+@media (max-width: 991px) {
+  .case-studies.listing .heading-sec .left-sec {
+    width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .case-studies.listing .right-sec {
+    padding-top: 15px;
+    width: 100% !important;
+    justify-content: unset;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 991px) {
+  .case-studies.listing .right-sec {
+    width: 50% !important;
+  }
+}
+.case-studies.listing .right-sec .case-study-btn {
+  margin-right: 25px;
+  position: relative;
+}
+.case-studies.listing .right-sec .case-study-btn a .arrow-right {
+  position: relative;
+}
+.case-studies.listing .right-sec .case-study-btn a .arrow-right::after {
+  position: absolute;
+  width: 10px;
+  right: -8px;
+  height: 10px;
+  border-top: 1px solid #3B7BF8;
+  border-left: 1px solid #3B7BF8;
+  content: "";
+  top: 11px;
+  display: block;
+  transform: rotate(225deg);
+}
+@media (max-width: 1679px) {
+  .case-studies.listing .right-sec .case-study-btn a .arrow-right::after {
+    width: 8px;
+    height: 8px;
+    top: 8px;
+  }
+}
+.case-studies.listing .right-sec .case-study-btn a:hover .arrow-right {
+  position: relative;
+}
+.case-studies.listing .right-sec .case-study-btn a:hover .arrow-right::after {
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  content: "";
+}
+@media (max-width: 479px) {
+  .case-studies.listing .right-sec .case-study-btn {
+    margin: 0;
+    margin-right: 5px;
+    margin-top: 0px !important;
+  }
+}
+.case-studies.listing .right-sec .case-study-btn:last-child {
+  margin-right: 0;
+}
+.case-studies.listing .right-sec .case-study-btn .c-btn .arrow-right {
+  padding-left: 10px;
+}
+.case-studies.listing .three-col-sec {
+  flex-wrap: wrap;
+  padding-bottom: 10px;
+}
+@media (max-width: 991px) {
+  .case-studies.listing .three-col-sec {
+    padding-top: 30px;
+    padding-bottom: 0;
+  }
+}
+.case-studies.listing .three-col-sec .box {
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+@media (max-width: 991px) {
+  .case-studies.listing .three-col-sec .box {
+    padding-bottom: 30px;
+  }
+}
+@media (max-width: 1679px) {
+  .case-studies.listing .three-col-sec .box {
+    padding-bottom: 40px;
+  }
+}
+@media (max-width: 1481px) {
+  .case-studies.listing .three-col-sec .box .top-img {
+    height: 220px;
+  }
+}
+@media (max-width: 1679px) {
+  .case-studies.listing .three-col-sec .box .readmore {
+    padding-top: 10px;
+  }
+}
+@media (max-width: 991px) {
+  .case-studies.listing .three-col-sec .box .readmore {
+    padding-top: 0;
+  }
+}

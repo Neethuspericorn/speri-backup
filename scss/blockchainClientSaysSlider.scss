@@ -1,0 +1,185 @@
+.bc-testi-slider{
+    background-color: #f6fcff;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    &.d-none{
+        display: none;
+    }
+    @media screen and (max-width: 1679px){
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    @media screen and (max-width: 1480px){
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    @media screen and (max-width: 1200px){
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .bc-slider-row{
+        align-items: center;
+    }
+    .slide-col{
+        max-width: calc(100% - 504px);
+        @media screen and (max-width: 1200px){
+            max-width: calc(100% - 300px);
+        }
+        @media screen and (max-width: 767px){
+            max-width: 100%;
+            order: 2;
+            padding-top: 20px;
+        }
+    }
+    .img-col{
+        max-width: 504px;
+        @media screen and (max-width: 1200px){
+            max-width: 300px;
+        }
+        @media screen and (max-width: 767px){
+            max-width: 100%;
+            order: 1;
+            .slider-graphic{
+                max-width: 300px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+    }
+
+    .slick-dots{
+        display: flex;
+        li button{
+            padding: 1px;
+        }
+         li button:before{
+            color: #33B2FF;
+            text-align: left;
+            width: 16px;
+            height: 16px;
+         }
+        li.slick-active button:before{
+            color: #33B2FF;
+        }
+    }
+}
+
+.bc-slider-title{
+    .title{
+        color: #133A7D;
+        font-size: 43px;
+        margin-top: 0.5em;
+        margin-bottom: 0.3em;
+        position: relative;
+        span{
+            position: relative;
+            z-index: 2;
+        }
+        .quote{
+            z-index: 0;
+            position: absolute;
+            width: 100px;
+            transform: translateY(-30%);
+            top: 0;
+            left: 0;
+        }
+        @media screen and (max-width: 1920px){
+            font-size: 28px;
+        }
+        font-family: 'poppins',sans-serif;
+        font-weight: 600;
+        .light{
+            color: #00B0FF;
+        }
+    }
+}
+
+.bc-slider{
+    max-width: 700px;
+    .side-title-txt{
+        font-family: 'poppins',sans-serif;
+        font-weight: 600;
+        color: #33B2FF;
+        font-size: 32px;
+        margin-top: 0.5em;
+        margin-bottom: 0.33em;
+        @media screen and (max-width: 1920px){
+            font-size: 24px;
+        }
+    }
+
+    .slide-cont-txt{
+        color: #7190A3;
+        font-family: 'poppins',sans-serif;
+        font-size: 24px;
+        line-height: 1.46;
+        font-weight: 300;
+        @media screen and (max-width: 1920px){
+            font-size: 18px;
+        }
+        @media screen and (max-width: 1679px){
+            font-size: 17px;
+        }
+        @media screen and (max-width: 1480px){
+            font-size: 16px;
+        }
+        @media screen and (max-width: 1199px){
+            font-size: 14px;
+        }
+        @media screen and (max-width: 767px){
+            font-size: 13px;
+        }
+    }
+}
+
+.slider-graphic{
+    position: relative;
+    .slider-graphic-img{
+        position: relative;
+        z-index: 2;
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .dots{
+        position: absolute;
+        z-index: 0;
+        img{
+            width: 100%;
+            object-fit: contain;
+        }
+        &.dots-right{
+            top: -9%;
+            right: 7%;
+            width: 10%;
+        }
+        &.dots-left{
+            bottom: 10%;
+            left: -24%;
+            width: 36%;
+        }
+        &.dots-bottom{
+            bottom: -13%;
+            right: 15%;
+            width: 10%;
+        }
+    }
+    .arrow{
+        position: absolute;
+        z-index: 0;
+        top: -20%;
+        img{
+            width: 100%;
+            object-fit: contain;
+        }
+        &.arrow-left{
+            left: -30%;
+            top: -10%;
+            width: 15%;
+        }
+        &.arrow-right{
+            left: 30%;
+            width: 16%;
+        }
+    }
+}

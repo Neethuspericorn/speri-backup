@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="vuesax_bulk_card-pos" data-name="vuesax/bulk/card-pos" transform="translate(-428 -508)">
+    <g id="card-pos" transform="translate(428 508)">
+      <path id="Vector" d="M30.479,2.375H1.188A1.2,1.2,0,0,1,0,1.188,1.2,1.2,0,0,1,1.188,0H30.479a1.2,1.2,0,0,1,1.188,1.188A1.2,1.2,0,0,1,30.479,2.375Z" transform="translate(3.167 32.458)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M26.853,15.406,15.406,26.853a5.729,5.729,0,0,1-8.107.016L0,19.57,19.57,0l7.3,7.3A5.729,5.729,0,0,1,26.853,15.406Z" transform="translate(5.748 6.286)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H38V38H0Z" fill="none" opacity="0"/>
+      <path id="Vector-4" data-name="Vector" d="M22.7,3.113,3.113,22.683,1.672,21.242a5.729,5.729,0,0,1,.016-8.107L13.136,1.688a5.729,5.729,0,0,1,8.107-.016Z" transform="translate(2.618 3.173)" fill="#fff"/>
+      <path id="Vector-5" data-name="Vector" d="M4.069,1.932,1.932,4.069a1.131,1.131,0,0,1-1.6-1.6L2.47.332a1.131,1.131,0,0,1,1.6,1.6Z" transform="translate(16.34 25.935)" fill="#fff"/>
+      <path id="Vector-6" data-name="Vector" d="M6.191,1.932,1.932,6.191a1.131,1.131,0,0,1-1.6-1.6L4.592.332a1.128,1.128,0,0,1,1.6,0A1.157,1.157,0,0,1,6.191,1.932Z" transform="translate(21.153 19)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

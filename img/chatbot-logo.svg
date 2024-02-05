@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="53" viewBox="0 0 175 53">
+  <g id="Group_3" data-name="Group 3" transform="translate(-104 -65.111)">
+    <g id="Group_2" data-name="Group 2" transform="translate(104 64.853)">
+      <text id="ChatBot" transform="translate(57 36.258)" fill="#193674" font-size="33" font-family="Baloo2-SemiBold, 'Baloo \32 '" font-weight="600"><tspan x="0" y="0">Chat</tspan><tspan y="0" font-family="Baloo2-Regular, 'Baloo \32 '" font-weight="400">Bot</tspan></text>
+      <g id="Group_1" data-name="Group 1">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="25.5" cy="25.5" r="25.5" transform="translate(0 0.258)" fill="#1d63ff"/>
+        <g id="bot" transform="translate(11.835 11.835)">
+          <path id="Path_1" data-name="Path 1" d="M80.5,5.609h-.7V4.08a2.1,2.1,0,1,0-1.4,0V5.609H70V4.08a2.1,2.1,0,1,0-1.4,0V5.609h-.7a3.5,3.5,0,0,0-3.5,3.5v11.9a3.5,3.5,0,0,0,3.5,3.5H70v2.8a.7.7,0,0,0,1.071.593l5.43-3.393h4a3.5,3.5,0,0,0,3.5-3.5V9.109A3.5,3.5,0,0,0,80.5,5.609Zm-9.8,4.2a2.1,2.1,0,0,1,2.1,2.1.7.7,0,0,1-1.4,0,.7.7,0,1,0-1.4,0,.7.7,0,0,1-1.4,0A2.1,2.1,0,0,1,70.7,9.809Zm8.713,8.676a12.569,12.569,0,0,1-10.426,0,.7.7,0,1,1,.626-1.252,11.223,11.223,0,0,0,9.174,0,.7.7,0,1,1,.626,1.252ZM79.1,12.608a.7.7,0,0,1-.7-.7.7.7,0,1,0-1.4,0,.7.7,0,0,1-1.4,0,2.1,2.1,0,0,1,4.2,0,.7.7,0,0,1-.7.7Zm0,0" transform="translate(-60.199)" fill="#fff"/>
+          <path id="Path_2" data-name="Path 2" d="M385.1,170.8h-.7v7h.7a2.1,2.1,0,0,0,2.1-2.1v-2.8A2.1,2.1,0,0,0,385.1,170.8Zm0,0" transform="translate(-359.199 -159.592)" fill="#fff"/>
+          <path id="Path_3" data-name="Path 3" d="M.4,172.9v2.8a2.1,2.1,0,0,0,2.1,2.1h.7v-7H2.5a2.1,2.1,0,0,0-2.1,2.1Zm0,0" transform="translate(-0.398 -159.592)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

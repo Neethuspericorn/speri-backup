@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 46" width="46" height="46">
+	<title>python</title>
+	<defs>
+		<image  width="46" height="45" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAtCAMAAADm86mrAAAAAXNSR0IB2cksfwAAAJ9QTFRFAAAAMGCPM2aRNGaSNGeSNGaRNGeSNGaTNGeRMGiPM2eSM2aRMGWPNGaSNGaRM2eSNGiTM2aSMmiSM2eRM2eRM2aSMmaSNWWSM2eR+8c6+8c4+sY6+sY5/88w+sU6+cU6M2aR+sU6+sY5M2aT+cU6M2aS+sY5/8c4+sc4+cY5+cY5/MY5+sU6+cY5+sY5+sc4M2eR+sU6+sY5+sY5+sY5ws8RtwAAADV0Uk5TABBfj7/P/39PIJ/vMMCA0EDgYLDfr3A/b39A/78Qz4Cg73BQsPCQIF/fr1Aw4KBgkNCPwPCvbSQMAAABZUlEQVR4nK3Ua1eCMBgH8Gcl2BLRvJWbk0AUC9DMvv9na0iHXWAbnfq/4Rz22+VsewagBt3dDzy/ymAwfAB78KOvZDREFh2MfD1eYNSI63E40byRT7nmnZ5UP7PwkH/mKg8tnE+NFv25v1hq2s7b+S+Opk1WVo6etbzIfF2FNBgvO1fRcHrLhtW64+i7ON3ePLZrwWlU8Ve7lnjMh8cOLXGaAMxcfCd46l7LHpGGxwBjB1/BoeEUwHOtnMWCZ6C3T8ZSVhjYVmhKFL4PsX49jm/UxPcBsOP7RkpM1RCQKnMHud6uJZN2ZgKFQ1O5kEPYOHQJIAphyhyanvj1FZy4+BmkY3XyUiloJ89BvvAunvyc3EcfXuaitsM5vyCBxE9ES9F+PiQemd6ibk579PwrTy+/4fydO/Tncf3LyDNt9AwgsW3SQRt+/VkvyRB2bW9MYtQ851LFF/PYdYooref4uqZJ6+i/AZpuYrtK+XaqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

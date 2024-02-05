@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f8fd"/>
+      <stop offset="1" stop-color="#d8f4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_70629" data-name="Group 70629" transform="translate(-260 -3382)">
+    <circle id="Ellipse_988" data-name="Ellipse 988" cx="50" cy="50" r="50" transform="translate(260 3382)" fill="url(#linear-gradient)"/>
+    <g id="Group_70616" data-name="Group 70616" transform="translate(2.561 3.556)">
+      <g id="give-money" transform="translate(282.439 3406)">
+        <path id="Path_51347" data-name="Path 51347" d="M41.5,274.654l-9.258,7.8a3.728,3.728,0,0,1-3.618,4.619H16.281a.94.94,0,0,1,0-1.88H28.622a1.847,1.847,0,0,0,1.759-2.411.936.936,0,0,1-.2-.426,1.847,1.847,0,0,0-1.558-.856H22.707a4.888,4.888,0,0,1-3.48-1.441l-.27-.27a5,5,0,0,0-3.558-1.474H10.655a6.58,6.58,0,0,0-4.675,1.931L.064,286.51a.235.235,0,0,0,.011.334l8.648,7.983a.235.235,0,0,0,.326-.007l.225-.225a4.889,4.889,0,0,1,3.48-1.441H27.371a3.021,3.021,0,0,0,2.15-.891L44.194,277.59a2,2,0,0,0-2.7-2.937Z" transform="translate(0 -250.001)" fill="#26aefe"/>
+        <path id="Path_51348" data-name="Path 51348" d="M168.924,27.011a12.993,12.993,0,1,0-12.994-12.994A13.008,13.008,0,0,0,168.924,27.011Z" transform="translate(-142.411 -1.024)" fill="#26aefe"/>
+      </g>
+      <g id="shopping-cart" transform="translate(303.778 3411.213)">
+        <path id="Path_51332" data-name="Path 51332" d="M201.288,17.761a2.831,2.831,0,0,0,.059-.577V15.508a2.832,2.832,0,0,0-2.828-2.828H198v-.691a1.32,1.32,0,1,0-2.64,0v.691h-1.278A2.077,2.077,0,0,0,192,14.754v7.878a2.077,2.077,0,0,0,2.074,2.074h1.278V25.4a1.32,1.32,0,1,0,2.64,0v-.691h1.865a2.832,2.832,0,0,0,2.828-2.828V20.2a2.829,2.829,0,0,0-1.4-2.44Zm-6.645-2.442h3.876a.189.189,0,0,1,.189.189v1.676a.189.189,0,0,1-.189.189h-3.876Zm5.405,6.558a.189.189,0,0,1-.189.189h-5.217V20.012h5.217a.189.189,0,0,1,.189.189Z" transform="translate(-192.003 -10.668)" fill="#e1f5fe"/>
+      </g>
+    </g>
+  </g>
+</svg>

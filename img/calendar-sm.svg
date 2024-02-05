@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.086" height="19.82" viewBox="0 0 19.086 19.82">
+  <g id="calendar_1_" data-name="calendar (1)" transform="translate(-5.988)">
+    <g id="Group_68910" data-name="Group 68910" transform="translate(5.988 0)">
+      <path id="Path_23122" data-name="Path 23122" d="M8.616,19.82h13.83a2.63,2.63,0,0,0,2.628-2.628V4.1a2.63,2.63,0,0,0-2.628-2.628H21.4V.734a.734.734,0,0,0-1.468,0v.734H11.127V.734a.734.734,0,0,0-1.468,0v.734H8.616A2.63,2.63,0,0,0,5.988,4.1v13.1A2.63,2.63,0,0,0,8.616,19.82ZM7.456,4.1a1.162,1.162,0,0,1,1.16-1.16H9.658V3.67a.734.734,0,1,0,1.468,0V2.936h8.809V3.67a.734.734,0,0,0,1.468,0V2.936h1.042a1.162,1.162,0,0,1,1.16,1.16v13.1a1.162,1.162,0,0,1-1.16,1.16H8.616a1.162,1.162,0,0,1-1.16-1.16Z" transform="translate(-5.988 0)" fill="#a1acc1"/>
+      <circle id="Ellipse_754" data-name="Ellipse 754" cx="0.918" cy="0.918" r="0.918" transform="translate(4.405 6.607)" fill="#a1acc1"/>
+      <circle id="Ellipse_755" data-name="Ellipse 755" cx="0.918" cy="0.918" r="0.918" transform="translate(8.442 6.607)" fill="#a1acc1"/>
+      <circle id="Ellipse_756" data-name="Ellipse 756" cx="0.918" cy="0.918" r="0.918" transform="translate(12.479 6.607)" fill="#a1acc1"/>
+      <circle id="Ellipse_757" data-name="Ellipse 757" cx="0.918" cy="0.918" r="0.918" transform="translate(4.405 10.277)" fill="#a1acc1"/>
+      <circle id="Ellipse_758" data-name="Ellipse 758" cx="0.918" cy="0.918" r="0.918" transform="translate(8.442 10.277)" fill="#a1acc1"/>
+      <circle id="Ellipse_759" data-name="Ellipse 759" cx="0.918" cy="0.918" r="0.918" transform="translate(12.479 10.277)" fill="#a1acc1"/>
+      <circle id="Ellipse_760" data-name="Ellipse 760" cx="0.918" cy="0.918" r="0.918" transform="translate(4.405 13.948)" fill="#a1acc1"/>
+      <circle id="Ellipse_761" data-name="Ellipse 761" cx="0.918" cy="0.918" r="0.918" transform="translate(8.442 13.948)" fill="#a1acc1"/>
+      <circle id="Ellipse_762" data-name="Ellipse 762" cx="0.918" cy="0.918" r="0.918" transform="translate(12.479 13.948)" fill="#a1acc1"/>
+    </g>
+  </g>
+</svg>

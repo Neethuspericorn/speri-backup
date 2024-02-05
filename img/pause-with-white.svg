@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <g id="Group_58306" data-name="Group 58306" transform="translate(-1801 -595)">
+    <g id="Group_56592" data-name="Group 56592" transform="translate(1801 595)">
+      <g id="Group_56591" data-name="Group 56591">
+        <circle id="Ellipse_735" data-name="Ellipse 735" cx="38" cy="38" r="38" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-pause" data-name="Icon awesome-pause" d="M9.828,37.691H3.276A3.571,3.571,0,0,1,0,33.886V5.984a3.571,3.571,0,0,1,3.276-3.8H9.828a3.571,3.571,0,0,1,3.276,3.8v27.9A3.571,3.571,0,0,1,9.828,37.691Zm20.749-3.8V5.984A3.571,3.571,0,0,0,27.3,2.18H20.749a3.571,3.571,0,0,0-3.276,3.8v27.9a3.571,3.571,0,0,0,3.276,3.8H27.3A3.571,3.571,0,0,0,30.577,33.886Z" transform="translate(1824 612.82)" fill="#0a73d7"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="173" viewBox="0 0 173 173">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#99e4ff"/>
+      <stop offset="1" stop-color="#f1f8fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_70652" data-name="Group 70652" transform="translate(-323 -2808)">
+    <circle id="Ellipse_991" data-name="Ellipse 991" cx="86.5" cy="86.5" r="86.5" transform="translate(323 2808)" fill="url(#linear-gradient)"/>
+    <g id="bluetooth_1_" data-name="bluetooth (1)" transform="translate(379 2858)">
+      <g id="Group_70643" data-name="Group 70643" transform="translate(33.708 18.427)">
+        <path id="Path_51862" data-name="Path 51862" d="M23.558,45.713a2.3,2.3,0,0,1-1.342-2.091V31.371l-5.384,4.763a2.3,2.3,0,0,1-3.056-3.449l7.764-6.87-7.727-6.539a2.3,2.3,0,0,1,2.976-3.516l5.427,4.585V8.3a2.3,2.3,0,0,1,3.725-1.812L36.69,14.937a2.3,2.3,0,0,1,.1,3.535l-8.209,7.263,8.169,6.913a2.3,2.3,0,0,1,.012,3.507L26.018,45.369a2.3,2.3,0,0,1-2.46.344ZM26.823,30.28v8.332l4.892-4.192Zm0-17.238v8.1l4.849-4.29Z" transform="translate(-12.999 -6)" fill="#26aefe"/>
+      </g>
+      <path id="Path_51863" data-name="Path 51863" d="M36.783,55.281H12.213A3.08,3.08,0,0,1,9.142,52.21V21.5a3.08,3.08,0,0,1,3.071-3.071H37.121a8.8,8.8,0,0,1,5.313-5.712l-.768-7.862A5.368,5.368,0,0,0,36.322,0H15.745A5.368,5.368,0,0,0,10.4,4.852l-.768,7.862A9.175,9.175,0,0,0,3,21.5V52.21a9.175,9.175,0,0,0,6.634,8.784l.768,7.862a5.368,5.368,0,0,0,5.344,4.852H36.322a5.368,5.368,0,0,0,5.344-4.852l.491-4.945C37.971,61.816,36.783,59.086,36.783,55.281Z" transform="translate(0 0)" fill="#26aefe"/>
+    </g>
+  </g>
+</svg>

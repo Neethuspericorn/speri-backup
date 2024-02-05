@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.104" height="40.211" viewBox="0 0 41.104 40.211">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.909" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#193fa2"/>
+      <stop offset="1" stop-color="#044aba"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_17676" data-name="Group 17676" opacity="0.88">
+    <ellipse id="Ellipse_171" data-name="Ellipse 171" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(23.187 23.233)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_161" data-name="Ellipse 161" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_165" data-name="Ellipse 165" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(0 11.616)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_169" data-name="Ellipse 169" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(0 23.233)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_173" data-name="Ellipse 173" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(0 35.743)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_162" data-name="Ellipse 162" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(11.593 0)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_166" data-name="Ellipse 166" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(11.593 11.616)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_170" data-name="Ellipse 170" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(11.593 23.233)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_174" data-name="Ellipse 174" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(11.593 35.743)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_163" data-name="Ellipse 163" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(23.187 0)" opacity="0.5" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_167" data-name="Ellipse 167" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(23.187 11.616)" opacity="0.5" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_175" data-name="Ellipse 175" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(23.187 35.743)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_164" data-name="Ellipse 164" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(35.834 0)" opacity="0.5" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_168" data-name="Ellipse 168" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(35.834 11.616)" opacity="0.5" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_172" data-name="Ellipse 172" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(35.834 23.233)" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_176" data-name="Ellipse 176" cx="2.635" cy="2.234" rx="2.635" ry="2.234" transform="translate(35.834 35.743)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

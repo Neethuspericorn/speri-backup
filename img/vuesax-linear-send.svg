@@ -1,0 +1,9 @@
+<svg id="vuesax_linear_send" data-name="vuesax/linear/send" xmlns="http://www.w3.org/2000/svg" width="15.313" height="15.313" viewBox="0 0 15.313 15.313">
+  <g id="Send">
+    <g id="Group" transform="translate(3.19 2.233)">
+      <path id="Vector" d="M8.932,0,0,8.932" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M6.552,6.552V0H0" transform="translate(2.38)" fill="none" stroke="#009eff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <path id="Vector-3" data-name="Vector" d="M15.313,0H0V15.313H15.313Z" fill="none" opacity="0"/>
+  </g>
+</svg>

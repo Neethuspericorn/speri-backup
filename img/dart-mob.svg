@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.727" height="48.727" viewBox="0 0 48.727 48.727">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="dart-programming-language-icon" transform="translate(0)">
+    <path id="Path_41628" data-name="Path 41628" d="M9.938,116.456,1.6,108.123a5.657,5.657,0,0,1-1.6-3.85,6.438,6.438,0,0,1,.641-2.243L8.333,86Z" transform="translate(0 -77.667)" fill="#01579b"/>
+    <path id="Path_41629" data-name="Path 41629" d="M116.2,9.938,107.865,1.6A5.739,5.739,0,0,0,104.339,0a5.909,5.909,0,0,0-2.884.641L86.07,8.333Z" transform="translate(-77.73)" fill="#40c4ff"/>
+    <path id="Path_41630" data-name="Path 41630" d="M124.445,377.366h20.2v-8.655L129.575,363.9l-13.785,4.811Z" transform="translate(-104.57 -328.639)" fill="#40c4ff"/>
+    <path id="Path_41631" data-name="Path 41631" d="M86,111.969c0,2.572.323,3.2,1.6,4.488l1.282,1.283h28.855l-14.1-16.029L86,86Z" transform="translate(-77.667 -77.667)" fill="#29b6f6"/>
+    <path id="Path_41632" data-name="Path 41632" d="M111.649,86H86l31.739,31.735h8.655V97.86L116.135,87.6A5.422,5.422,0,0,0,111.649,86Z" transform="translate(-77.667 -77.667)" fill="#01579b"/>
+    <path id="Path_41633" data-name="Path 41633" d="M87.99,116.775c-1.282-1.286-1.6-2.554-1.6-4.806V86.322L86.07,86v25.969c0,2.253,0,2.877,1.92,4.807l.96.96h0Z" transform="translate(-77.73 -77.667)" fill="#fff" opacity="0.2"/>
+    <path id="Path_41634" data-name="Path 41634" d="M418.915,205.11v19.875H410.26l.319.323h8.655V205.429Z" transform="translate(-370.507 -185.235)" fill="#263238" opacity="0.2"/>
+    <path id="Path_41635" data-name="Path 41635" d="M116.2,87.6c-1.588-1.591-2.889-1.6-4.805-1.6H86.07l.319.319h25c.956,0,3.371-.161,4.807,1.283Z" transform="translate(-77.73 -77.667)" fill="#fff" opacity="0.2"/>
+    <path id="Path_41636" data-name="Path 41636" d="M48.408,19.875l-9.94-9.937L30.135,1.6A5.739,5.739,0,0,0,26.609,0a5.909,5.909,0,0,0-2.884.641L8.34,8.333l-7.7,16.03A6.506,6.506,0,0,0,0,26.606a5.678,5.678,0,0,0,1.6,3.847l7.685,7.628a8.956,8.956,0,0,0,.652.709l.319.319.959.96L19.549,48.4l.319.319H40.061V40.068h8.655V20.194Z" transform="translate(0)" opacity="0.2" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

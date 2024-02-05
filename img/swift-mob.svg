@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.895" height="52.844" viewBox="0 0 52.895 52.844">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.589" y1="-0.004" x2="0.411" y2="1.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9b13d"/>
+      <stop offset="1" stop-color="#e63830"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.612" y1="-0.009" x2="0.44" y2="1.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5a235"/>
+      <stop offset="1" stop-color="#d23629"/>
+    </linearGradient>
+  </defs>
+  <g id="swift-programming-language-icon" transform="translate(0 -1)">
+    <path id="Path_41651" data-name="Path 41651" d="M362.583,229.955h29.531a11.577,11.577,0,0,1,11.724,11.677v29.479a11.615,11.615,0,0,1-11.724,11.65H362.583A11.67,11.67,0,0,1,351,271.111V241.632A11.548,11.548,0,0,1,362.583,229.955Z" transform="translate(-350.944 -228.917)" fill="url(#linear-gradient)"/>
+    <path id="Path_41652" data-name="Path 41652" d="M44.651,44.221s-2.058-3.334-5.424-3.334c-3.437,0-5.134,3.334-11.934,3.334-14.755,0-21.75-12.14-21.91-12.427a.081.081,0,0,0,.082.082L0,26.135V12.672A11.674,11.674,0,0,1,11.6,1H22.158l7.7,7.892a.392.392,0,0,1,.084-.161C47.442,20.821,41.8,33.9,41.8,33.9s4.844,5.486,2.85,10.321Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_41653" data-name="Path 41653" d="M35022.48,49490c17.434,11.867,11.8,25.016,11.8,25.016s4.848,5.531,2.863,10.383c0,0-2.062-3.367-5.422-3.367s-5.383,3.367-11.949,3.367c-14.945,0-21.773-12.461-21.773-12.461,13.258,9.023,22.523,2.625,22.523,2.625-6.078-3.516-19.008-20.1-19.008-20.1,11.172,9.383,15.922,11.859,15.922,11.859-2.8-2.227-10.8-13.82-10.8-13.82,6.512,6.469,19.285,15.641,19.285,15.641,3.516-10.172-3.441-19.141-3.441-19.141Z" transform="translate(-34992.445 -49481.145)" fill="#fefefe"/>
+  </g>
+</svg>

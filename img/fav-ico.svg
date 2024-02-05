@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>fav-ico</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAHhQTFRF////2vT/rub/qOT/v+v/9vz/uur/McD/BrL/D7X/edb/hdr/OML/6/n/oeL/C7T/Fbf/RMX/8fv/Gbj/m+D/6vn/5Pf/0fH/kN3/3/X/Hrr/UMn/fNf/atH/Wcz/YM7/Ibr/xe3/PsP/lt7/f9f/y+//1fL/+f3/EVOMpAAAAJJJREFUeJxtj9sSgjAMRMEiXS5SKgrIHbX6/3/oRmAcZsxDkz2T2Ww973/5BxUcfzLUYEXxhhKslZ6+OpPZ5PJa0eeC25drWaUkikBJrw3srQFaghgofNnvZCLoAR0KGGpaLTdMSR9kIzARzJz7qr0/ZgOMckbcrQqeEbsT8Mq3YOiWpK7Za2ZLtEExuN1/32v/AOR/CHPeXYZ5AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

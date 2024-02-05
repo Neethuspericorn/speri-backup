@@ -1,0 +1,18 @@
+<svg id="Group_70656" data-name="Group 70656" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f8fd"/>
+      <stop offset="1" stop-color="#d8f4ff"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_988" data-name="Ellipse 988" cx="50" cy="50" r="50" fill="url(#linear-gradient)"/>
+  <g id="bluetooth" transform="translate(13.757 33.434)">
+    <g id="Group_70636" data-name="Group 70636" transform="translate(21.333)">
+      <g id="Group_70635" data-name="Group 70635" transform="translate(0)">
+        <path id="Path_51845" data-name="Path 51845" d="M349.082,100.587l-2.1,2.1a14.44,14.44,0,0,1,0,13.336l1.988,1.988a16.485,16.485,0,0,0,.108-17.42Z" transform="translate(-321.697 -92.776)" fill="#06b2ff"/>
+        <path id="Path_51846" data-name="Path 51846" d="M42.381,9.451,32.93,0H31.273V12.566l-7.6-7.6L21.333,7.314l9.253,9.252-9.253,9.253,2.344,2.344,7.6-7.6V33.134H32.93l9.451-9.451-7.107-7.115ZM34.586,6.345,37.7,9.46l-3.115,3.106ZM37.7,23.682l-3.115,3.106V20.559Z" transform="translate(-21.333)" fill="#06b2ff"/>
+        <path id="Path_51847" data-name="Path 51847" d="M261.12,167.8l3.843,3.843a10.632,10.632,0,0,0,.017-7.7Z" transform="translate(-242.499 -151.215)" fill="#06b2ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

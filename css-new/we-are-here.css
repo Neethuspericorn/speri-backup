@@ -1,0 +1,163 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.we-are-here {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #111827;
+  color: #ffffff;
+  position: relative;
+}
+@media (max-width: 1679px) {
+  .we-are-here {
+    padding: 80px 0;
+  }
+}
+@media (max-width: 1481px) {
+  .we-are-here {
+    padding: 50px 0;
+  }
+}
+@media (max-width: 1199px) {
+  .we-are-here {
+    padding: 45px 0;
+  }
+}
+@media (max-width: 991px) {
+  .we-are-here {
+    padding: 40px 0;
+  }
+}
+.we-are-here .sp-container {
+  position: relative;
+  z-index: 2;
+}
+.we-are-here .sp-container .sp-row {
+  align-items: center;
+}
+.we-are-here .we-are-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.we-are-here .we-are-bg img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: bottom;
+     object-position: bottom;
+}
+.we-are-here .location-accordion {
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+@media (max-width: 767px) {
+  .we-are-here .location-accordion {
+    padding-bottom: 30px;
+  }
+}
+.we-are-here .location-accordion .acco-panel {
+  padding-bottom: 50px;
+}
+@media (max-width: 767px) {
+  .we-are-here .location-accordion .acco-panel {
+    padding-bottom: 30px;
+  }
+}
+.we-are-here .location-accordion .acco-head {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  font-size: 35px;
+  font-family: "Titillium Web", sans-serif;
+  color: #6D7B9B;
+  position: relative;
+  cursor: pointer;
+}
+@media (max-width: 1679px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 30px;
+  }
+}
+@media (max-width: 1481px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 28px;
+  }
+}
+@media (max-width: 1441px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 27px;
+  }
+}
+@media (max-width: 1281px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 26px;
+  }
+}
+@media (max-width: 1199px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 24px;
+  }
+}
+@media (max-width: 991px) {
+  .we-are-here .location-accordion .acco-head {
+    font-size: 20px;
+  }
+}
+.we-are-here .location-accordion .acco-head:before {
+  content: "";
+  height: 1px;
+  width: 20px;
+  background-color: #6D7B9B;
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateX(calc(-100% - 30px));
+}
+.we-are-here .location-accordion .acco-head.active {
+  font-weight: bold;
+  color: #ffffff;
+}
+.we-are-here .location-accordion .acco-body {
+  max-height: 0;
+  overflow: hidden;
+}
+.we-are-here .location-accordion .acco-body .main-desc {
+  color: #fff;
+}
+.we-are-here .location-accordion .acco-body.show {
+  max-height: 100px;
+}
+.we-are-here .office-img {
+  display: flex;
+}
+@media (max-width: 767px) {
+  .we-are-here .office-img {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+}
+.we-are-here .office-img img {
+  max-width: 570px;
+  border-radius: 30px;
+  margin-left: auto;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .we-are-here .office-img img {
+    margin-left: 0;
+  }
+}

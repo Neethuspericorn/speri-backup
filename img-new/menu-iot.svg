@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.369" height="56.405" viewBox="0 0 64.369 56.405">
+  <g id="Group_59184" data-name="Group 59184" transform="translate(0.35 0.35)">
+    <g id="iot">
+      <path id="Path_11697" data-name="Path 11697" d="M405.7,158.253h-15.1v3.731h5.66v20.58H400v-20.58H405.7Z" transform="translate(-342.032 -142.556)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11698" data-name="Path 11698" d="M12.493,178.833H8.112V161.984h4.381v-3.731H0v3.731H4.381v16.849H0v3.731H12.493Z" transform="translate(0 -142.556)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11699" data-name="Path 11699" d="M157.9,182.564a12.155,12.155,0,1,0-12.155-12.155A12.169,12.169,0,0,0,157.9,182.564Zm0-20.58a8.425,8.425,0,1,1-8.425,8.425A8.434,8.434,0,0,1,157.9,161.984Z" transform="translate(-127.617 -142.556)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11700" data-name="Path 11700" d="M147.916,95.138a19.932,19.932,0,0,0-13.572,5.323l2.534,2.738a16.234,16.234,0,0,1,22.078,0l2.534-2.738a19.932,19.932,0,0,0-13.572-5.323Z" transform="translate(-117.638 -87.289)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11701" data-name="Path 11701" d="M110.423,35.754a24.032,24.032,0,0,1,16.364,6.419l2.533-2.738a27.8,27.8,0,0,0-37.794,0l2.533,2.738A24.033,24.033,0,0,1,110.423,35.754Z" transform="translate(-80.144 -32.023)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11702" data-name="Path 11702" d="M147.916,360.1a19.932,19.932,0,0,0,13.572-5.323l-2.534-2.738a16.234,16.234,0,0,1-22.078,0l-2.534,2.738A19.932,19.932,0,0,0,147.916,360.1Z" transform="translate(-117.638 -312.241)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+      <path id="Path_11703" data-name="Path 11703" d="M110.423,404.775a24.032,24.032,0,0,1-16.364-6.419l-2.533,2.738a27.8,27.8,0,0,0,37.794,0l-2.533-2.738A24.032,24.032,0,0,1,110.423,404.775Z" transform="translate(-80.144 -352.801)" fill="#3b7bf8" stroke="#f5f9ff" stroke-width="0.7"/>
+    </g>
+  </g>
+</svg>

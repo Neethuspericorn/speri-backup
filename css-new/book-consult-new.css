@@ -1,0 +1,267 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.book-consult-new {
+  background: #111827 url(../img-new/book-conslt-new.jpg) no-repeat center/cover;
+  color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+@media (max-width: 1679px) {
+  .book-consult-new {
+    padding-top: 100px;
+    padding-bottom: 91px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media (max-width: 991px) {
+  .book-consult-new {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+.book-consult-new .bc-form-wrp {
+  padding: 60px;
+  background: transparent linear-gradient(180deg, #1A253E 0%, #131D31 100%) 0% 0% no-repeat padding-box;
+  border-radius: 22px;
+  max-width: 720px;
+  margin-left: auto;
+}
+@media (max-width: 1679px) {
+  .book-consult-new .bc-form-wrp {
+    padding: 50px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .bc-form-wrp {
+    padding: 40px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .bc-form-wrp {
+    padding: 30px;
+  }
+}
+@media (max-width: 991px) {
+  .book-consult-new .bc-form-wrp {
+    margin-right: auto;
+    margin-top: 30px;
+  }
+}
+.book-consult-new .txt-col {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.book-consult-new .txt-col .txt-wrp {
+  max-width: 380px;
+}
+@media (max-width: 991px) {
+  .book-consult-new .txt-col .txt-wrp {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+}
+.book-consult-new .txt-col .title {
+  font-weight: bold;
+  color: #ffffff;
+}
+.book-consult-new .txt-col .title span {
+  display: block;
+  font-weight: bold;
+}
+@media (max-width: 991px) {
+  .book-consult-new .txt-col .title span {
+    display: inline;
+  }
+}
+.book-consult-new .txt-col .title span.reg {
+  font-weight: 400;
+}
+.book-consult-new .txt-col .subtitle {
+  color: #A7B7DB;
+  font-weight: 300;
+  font-size: 22px;
+  max-width: 376px;
+}
+.book-consult-new .txt-col .subtitle span {
+  display: block;
+}
+@media (max-width: 991px) {
+  .book-consult-new .txt-col .subtitle span {
+    display: inline;
+  }
+}
+@media (max-width: 1679px) {
+  .book-consult-new .txt-col .subtitle {
+    font-size: 20px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .txt-col .subtitle {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .txt-col .subtitle {
+    font-size: 16px;
+  }
+}
+@media (max-width: 991px) {
+  .book-consult-new .txt-col .subtitle {
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 720px;
+  }
+}
+.book-consult-new .inp-wrp {
+  border-bottom: 1px solid #3B4763;
+  position: relative;
+  margin-bottom: 50px;
+}
+@media (max-width: 1679px) {
+  .book-consult-new .inp-wrp {
+    margin-bottom: 40px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .inp-wrp {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .inp-wrp {
+    margin-bottom: 20px;
+  }
+}
+.book-consult-new .inp-wrp.btn-wrp {
+  border-bottom: none !important;
+  margin-bottom: 0;
+}
+.book-consult-new .inp-wrp.pd-wrp {
+  margin-bottom: 30px;
+}
+.book-consult-new .inp-wrp .form-control {
+  background-color: transparent;
+  border: none;
+  position: relative;
+  z-index: 2;
+  outline: none !important;
+  width: 100%;
+  color: #ffffff;
+  font-size: 20px;
+  min-height: 2.5em;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-family: "Titillium Web", sans-serif;
+}
+@media (max-width: 1679px) {
+  .book-consult-new .inp-wrp .form-control {
+    font-size: 18px;
+    min-height: 50px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .inp-wrp .form-control {
+    font-size: 16px;
+    min-height: 45px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .inp-wrp .form-control {
+    font-size: 14px;
+    min-height: 40px;
+  }
+}
+.book-consult-new .inp-wrp .form-control:focus ~ label, .book-consult-new .inp-wrp .form-control:active ~ label {
+  top: -5px;
+  font-size: 12px;
+  opacity: 0.5;
+}
+.book-consult-new .inp-wrp .form-control:not(:-moz-placeholder-shown) ~ label {
+  top: -5px;
+  font-size: 12px;
+  opacity: 0.5;
+}
+.book-consult-new .inp-wrp .form-control:not(:placeholder-shown) ~ label {
+  top: -5px;
+  font-size: 12px;
+  opacity: 0.5;
+}
+.book-consult-new .inp-wrp label {
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  top: 0.5em;
+  left: 0;
+  z-index: 1;
+  transition: all ease-in-out 0.2s;
+}
+@media (max-width: 1679px) {
+  .book-consult-new .inp-wrp label {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .inp-wrp label {
+    font-size: 16px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .inp-wrp label {
+    font-size: 14px;
+  }
+}
+.book-consult-new .inp-wrp .btn-submit {
+  padding: 12px 20px;
+  background-color: #3B7BF8;
+  width: 100%;
+  border-radius: 30px;
+  border: none !important;
+  outline: none !important;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 300;
+  font-family: "Titillium Web", sans-serif;
+}
+@media (max-width: 1679px) {
+  .book-consult-new .inp-wrp .btn-submit {
+    font-size: 20px;
+  }
+}
+@media (max-width: 1481px) {
+  .book-consult-new .inp-wrp .btn-submit {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1281px) {
+  .book-consult-new .inp-wrp .btn-submit {
+    font-size: 16px;
+  }
+}
+@media (max-width: 991px) {
+  .book-consult-new .inp-wrp .btn-submit {
+    font-size: 14px;
+  }
+}

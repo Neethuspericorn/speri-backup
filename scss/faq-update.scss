@@ -1,0 +1,33 @@
+.faq-section .accordion .accordion-list .accordion-body.show{display: block !important;}
+
+.faq-section .accordion .accordion-list .accordion-body ul{
+    margin: 0;
+    font: 300 19px/30px 'poppins',sans-serif;
+    padding: 0px 105px 40px;
+    color: #355ea5;
+    margin: 0;
+    text-align: left;
+    @media (min-width: 1680px){
+        margin-top: -20px;
+    }
+    @media (max-width: 1679px){
+        padding: 0 105px 28px;
+        font-size: 17px;
+    }
+    @media (max-width: 1440px){
+        font: 300 16px/32px 'poppins',sans-serif;
+    }
+    @media (max-width: 1199px){
+        font: 300 15px/25px 'poppins',sans-serif;
+    }
+    @media (max-width: 991px){
+        padding: 0 74px 22px;
+        font: 300 14px/22px 'poppins',sans-serif;
+    }
+    @media (max-width: 767px){
+        padding: 0 35px 15px;
+        font: 300 14px/22px 'poppins',sans-serif;
+    }
+
+
+}

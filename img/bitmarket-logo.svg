@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170.897" height="40" viewBox="0 0 170.897 40">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7f57f1"/>
+      <stop offset="1" stop-color="#2c00aa"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_119" data-name="Group 119" transform="translate(-26.493 -38.5)">
+    <g id="Group_70619" data-name="Group 70619">
+      <text id="BitMarket" transform="translate(79.39 67)" fill="#00245e" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">BitMarket</tspan></text>
+      <g id="Group_70618" data-name="Group 70618" transform="translate(9.493 -0.5)">
+        <g id="Group_8" data-name="Group 8" transform="translate(-277.191 -289.948)">
+          <g id="Group_3" data-name="Group 3" transform="translate(304.191 328.948)">
+            <g id="Group_2" data-name="Group 2">
+              <rect id="Rectangle_1" data-name="Rectangle 1" width="41.013" height="40" rx="20" transform="translate(-10)" fill="url(#linear-gradient)"/>
+              <g id="Group_1" data-name="Group 1" transform="translate(-1.81 7.881)">
+                <path id="Path_1" data-name="Path 1" d="M449.347,351.076a6.06,6.06,0,0,0-2.818-.989v-.22a5.687,5.687,0,0,0,1.6-.606,4.216,4.216,0,0,0,1.442-1.344,4.147,4.147,0,0,0-.923-5.4,6.385,6.385,0,0,0-3.207-1.068V339.26a1.1,1.1,0,0,0-1.1-1.1h-.779a1.1,1.1,0,0,0-1.1,1.1v2.134h-1.6V339.26a1.1,1.1,0,0,0-1.1-1.1h-.779a1.1,1.1,0,0,0-1.1,1.1v2.134h-2.524a1.1,1.1,0,0,0-1.1,1.1V343.9a1.1,1.1,0,0,0,1.1,1.1v2.947l7.294-4.254-.579-.995,5.2.565-2.068,4.806-.582-1-9.265,5.273v2.562a1.1,1.1,0,0,0-1.1,1.1v1.41a1.1,1.1,0,0,0,1.1,1.1h2.524v1.268a1.1,1.1,0,0,0,1.1,1.1h.779a1.1,1.1,0,0,0,1.1-1.1v-1.269h1.6v1.269a1.1,1.1,0,0,0,1.1,1.1h.779a1.1,1.1,0,0,0,1.1-1.1v-1.319a7.7,7.7,0,0,0,3.426-1.018,3.673,3.673,0,0,0,1.74-3.378A3.332,3.332,0,0,0,449.347,351.076Zm-5.215,2.423a1.521,1.521,0,0,1-.32,1.068,1.246,1.246,0,0,1-.958.341h-2.462v-3.788h2.462a1.249,1.249,0,0,1,.958.345,1.516,1.516,0,0,1,.32,1.068Z" transform="translate(-428.889 -338.161)" fill="#fff"/>
+                <path id="Path_2" data-name="Path 2" d="M432.026,353.954s-5.3,2.413-6.288,6.453,2.39,6.511,6.84,6.016c0,0-4-.247-4.7-2.76s4.145-5.272,4.145-5.272Z" transform="translate(-425.566 -344.207)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

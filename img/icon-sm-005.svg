@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.164" height="38.164" viewBox="0 0 38.164 38.164">
+  <g id="vuesax_bulk_scan" data-name="vuesax/bulk/scan" transform="translate(-364 -252)">
+    <g id="scan" transform="translate(364 252)">
+      <path id="Vector" d="M1.224,12.721A1.215,1.215,0,0,1,0,11.5V7.824A7.838,7.838,0,0,1,7.824,0H11.5a1.215,1.215,0,0,1,1.224,1.224A1.215,1.215,0,0,1,11.5,2.449H7.824A5.378,5.378,0,0,0,2.449,7.824V11.5A1.225,1.225,0,0,1,1.224,12.721Z" transform="translate(3.18 3.18)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M11.5,12.721A1.225,1.225,0,0,1,10.272,11.5V7.824A5.378,5.378,0,0,0,4.9,2.449H1.224A1.224,1.224,0,1,1,1.224,0H4.9a7.838,7.838,0,0,1,7.824,7.824V11.5A1.215,1.215,0,0,1,11.5,12.721Z" transform="translate(22.262 3.18)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M3.435,11.242H1.224a1.224,1.224,0,0,1,0-2.449h2.21A5.378,5.378,0,0,0,8.81,3.419V1.224a1.224,1.224,0,0,1,2.449,0V3.419A7.838,7.838,0,0,1,3.435,11.242Z" transform="translate(23.725 23.741)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M11.5,12.721H7.824A7.838,7.838,0,0,1,0,4.9V1.224A1.215,1.215,0,0,1,1.224,0,1.215,1.215,0,0,1,2.449,1.224V4.9a5.378,5.378,0,0,0,5.375,5.375H11.5a1.224,1.224,0,0,1,0,2.449Z" transform="translate(3.18 22.262)" fill="#fff"/>
+      <path id="Vector-5" data-name="Vector" d="M21.769,0H1.224a1.224,1.224,0,0,0,0,2.449H21.769a1.224,1.224,0,0,0,0-2.449Z" transform="translate(7.585 17.858)" fill="#fff"/>
+      <path id="Vector-6" data-name="Vector" d="M0,.334V.859A4.764,4.764,0,0,0,4.771,5.629h6.679A4.764,4.764,0,0,0,16.22.859V.334A.326.326,0,0,0,15.886,0H.334A.326.326,0,0,0,0,.334Z" transform="translate(10.972 21.833)" fill="#fff"/>
+      <path id="Vector-7" data-name="Vector" d="M0,5.3V4.771A4.764,4.764,0,0,1,4.771,0h6.679A4.764,4.764,0,0,1,16.22,4.771V5.3a.326.326,0,0,1-.334.334H.334A.326.326,0,0,1,0,5.3Z" transform="translate(10.972 10.702)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-8" data-name="Vector" d="M0,0H38.164V38.164H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

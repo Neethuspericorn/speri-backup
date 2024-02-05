@@ -1,0 +1,251 @@
+.book-banner-sec{
+    .book-banner-row{
+        @media only screen and (max-width: 1199px){
+            flex-direction: column;
+            width: 800px;
+            max-width: 100%;
+            margin: auto;
+        }
+    }
+    .img-block{
+        padding-top: 0 !important;
+        @media only screen and (max-width: 1199px){
+            display: unset !important;
+            width: 100% !important;
+            padding-left: 10px;
+        }
+        .banner-title{
+            color: #133a7d;
+            margin-bottom: 35px;
+            font: 600 50px/56px 'Poppins', sans-serif;
+            @media (max-width: 1679px){
+                font: 600 45px/56px 'poppins', sans-serif;
+            }
+
+            @media only screen and (max-width: 1480px){
+                font: 600 40px/50px 'poppins', sans-serif;
+            }
+
+            @media only screen and (max-width: 1199px){
+                font: 600 35px/45px 'poppins', sans-serif;
+                margin-bottom: 15px;
+            }
+
+            @media only screen and (max-width: 991px){
+                font: 600 30px/40px 'poppins', sans-serif;
+            }
+
+            @media only screen and (max-width: 767px){
+                font: 600 19px/24px 'poppins', sans-serif;
+            }
+
+        }
+        .banner-subtitle{
+            color: #3f5375;
+            font: 400 20px/32px 'Manrope', sans-serif;
+            @media (max-width: 1679px){
+                font: 400 18px/30px 'Manrope', sans-serif;
+            }
+            @media only screen and (max-width: 1480px){
+                font: 400 16px/26px 'Manrope', sans-serif;
+            }
+            @media only screen and (max-width: 1199px){
+                font: 400 14px/24px 'Manrope', sans-serif;
+            }
+            @media only screen and (max-width: 767px){
+                font: 400 13px/18px 'Manrope', sans-serif;
+            }
+        }
+    }
+    .select-cover{
+        height: 57px;
+        position: relative;
+        @media (max-width: 1679px){
+            height: 52px;
+        }
+        @media (max-width: 1199px){
+            height: 48px;
+        }
+
+        select, .select-dd{
+            height: unset !important;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            min-height: 57px;
+            padding-right: 35px !important;
+            @media (max-width: 1679px){
+                min-height: 52px;
+            }
+            @media (max-width: 1199px){
+                min-height: 48px;
+            }
+
+            &.opened{
+                background-image: none;
+                z-index: 9;
+                box-shadow: 0 0 20px rgba(0,0,0,0.2);
+            }
+        }
+
+        .select-dd{
+            background-color: #f1f5fa;
+            opacity: 0.2;
+        }
+
+    }
+    .dropdown-content{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        display: none;
+        flex-direction: column;
+        background-color: #ffffff;
+        z-index: 2;
+        max-height: 282px;
+        overflow: auto;
+        gap: 5px;
+        padding: 5px 8px;
+        border: 1px solid #E8E8E8;
+        border-radius: 3px;
+        &::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        &::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 6px #F4FAFF;
+          }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: #a4cff9;
+            outline: 1px solid #a4cff9;
+        }
+        a{
+            font-family: 'Poppins', sans-serif;
+            color: #333;
+            height: 40px;
+            display: flex;
+            flex: 0 0 40px;
+            align-items: center;
+            padding: 5px 10px;
+            background-color: #F4FAFF;
+            color: #1F527E;
+            font-size: 13px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            position: relative;
+            &:after{
+                position: absolute;
+                inset: 0;
+                content: '';
+
+            }
+            span{
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                z-index: 0;
+                position: relative;
+            }
+        }
+        &.show{
+            display: flex;
+        }
+    }
+    .iti__country-list{
+        background-color: #f1f5fa;
+        .iti__country{
+            display: flex;
+            align-items: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            .iti__country-name{
+                padding-right: 30px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+
+            }
+            .iti__dial-code {
+                color: #999;
+                margin-left: auto;
+               padding-right: 20px;
+            }
+        }
+    }
+}
+
+.iti-mobile{
+    .iti--container{
+        max-width: calc(100vw - 60px) !important;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+    }
+    .iti__country-list{
+        width: 100% !important;
+
+    }
+}
+
+.ui-datepicker.ui-datepicker{
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border: 1px solid #E8E8E8 !important;
+    border-radius: 8px;
+    .ui-datepicker-header{
+        background-color: #fff;
+        color: #0B73D7;
+        border: none;
+    }
+    .ui-datepicker-title{
+        font-weight: 300;
+        font-size: 14px;
+    }
+    .ui-state-disabled, .ui-widget-content .ui-state-disabled, .ui-widget-header .ui-state-disabled{
+        opacity: 1;
+        background-color: #fff;
+        .ui-state-default{
+            background-color: #fff;
+            color: #c5c5c5;
+        }
+    }
+    table{
+        font-size: 13px;
+    }
+    thead{
+        tr{
+            border-top: 1px solid #F3F3F3;
+            border-bottom: 1px solid #F3F3F3;
+        }
+    }
+    th{
+        font-weight: 400;
+        color: #0A549B;
+        text-align: center;
+    }
+    .ui-state-default{
+        background-color: #f1f5fa;
+        text-align: center;
+        &.ui-state-highlight,
+        &.ui-state-active{
+            background-color: #0B73D7;
+        }
+    }
+    a.ui-corner-all{
+        cursor: pointer;
+        &.ui-datepicker-prev{
+            background: url(../img/cal-arr-left.svg) no-repeat center/7px !important;
+        }
+        &.ui-datepicker-next{
+            background: url(../img/cal-arr-right.svg) no-repeat center/7px !important;
+        }
+        .ui-icon{
+            opacity: 0 !important;
+        }
+    }
+}

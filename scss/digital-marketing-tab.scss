@@ -1,0 +1,259 @@
+
+
+.faq-section.section-digital-marketing-tabs{
+    font-family: 'Poppins', sans-serif;
+    background-color: #dae4f366;
+    margin-bottom: 0;
+    padding-bottom: 100px;
+    @media  (max-width: 1679px){
+        padding-bottom: 85px;
+    }
+
+    @media  (max-width: 1480px){
+        padding-bottom: 60px;
+    }
+
+    .main-title{
+        padding-bottom: 70px;
+        @media  (max-width: 1679px){
+            padding-bottom: 50px;
+        }
+        @media  (max-width: 1480px){
+            padding-bottom: 30px;
+        }
+        @media  (max-width: 1199px){
+            padding-bottom: 20px;
+        }
+    }
+    .tabs-wrap{
+        display: flex;
+        background-color: #fff;
+        border-radius: 15px;
+        overflow: hidden;
+        .tab-btns-wrap{
+            flex: 0 0 31.2%;
+            width: 31.2%;
+            max-width: 31.3%;
+            background-color: #F6FAFF;
+        }
+        .tab-contents-wrap{
+            flex: 1;
+            background: url(../img/sp-half-icon.svg) no-repeat top right;
+        }
+    }
+
+    .tab {
+        background-color: #F6FAFF;
+     }
+
+    .tab button {
+        display: block;
+        background-color: inherit;
+        color:#133A7D;
+        padding: 30px;
+        width: 100%;
+        border: none;
+        outline: none;
+        text-align: left;
+        cursor: pointer;
+        transition: 0.3s;
+        font-family: 'Poppins', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        position: relative;
+        overflow: visible;
+        border-bottom: 1px solid #dce3eead;
+        @media screen and (max-width: 1679px){
+            padding: 36px;
+            font-size: 16px;
+        }
+        @media screen and (max-width: 1480px){
+            padding: 30px;
+            font-size: 14px;
+        }
+        @media screen and (max-width: 1199px){
+            padding: 20px;
+        }
+        &::after{
+            position: absolute;
+            transform: translateY(-50%);
+            content: '';
+            right: -15px;
+            top: 50%;
+            width: 0;
+            height: 0;
+            border-top: 10px solid transparent;
+            border-bottom: 10px solid transparent;
+            border-left: 15px solid #06B2FF;
+            z-index: 1;
+            opacity: 0;
+            transition: 0.3s;
+            @media screen and (max-width: 1679px){
+                border-top: 8px solid transparent;
+                border-bottom: 8px solid transparent;
+                border-left: 12px solid #06B2FF;
+                right: -12px;
+            }
+            @media screen and (max-width: 1480px){
+                border-top: 6px solid transparent;
+                border-bottom: 6px solid transparent;
+                border-left: 10px solid #06B2FF;
+                right: -10px;
+            }
+            @media screen and (max-width: 1199px){
+                border-top: 5px solid transparent;
+                border-bottom: 5px solid transparent;
+                border-left: 8px solid #06B2FF;
+                right: -8px;
+            }
+        }
+        &:hover,
+        &.active{
+            background-color: #06B2FF;
+            color: #fff;
+        }
+        &.active{
+            &::after{
+                opacity: 1;
+            }
+        }
+    }
+
+
+    .tabcontent {
+        padding: 90px 80px 30px;
+        @media screen and (max-width: 1679px){
+            padding: 70px 60px 25px;
+        }
+        @media screen and (max-width: 1480px){
+            padding: 60px 40px 25px;
+        }
+        @media screen and (max-width: 1199px){
+
+        }
+        img{
+            width: 120px;
+            object-fit: contain;
+            object-position: left;
+            @media screen and (max-width: 1679px){
+                width: 100px;
+                height: 66px;
+            }
+            @media screen and (max-width: 1480px){
+                width: 80px;
+                height: 53px;
+            }
+            @media screen and (max-width: 1199px){
+                width: 60px;
+                height: 40px;
+            }
+        }
+        .tabtitle{
+            color: #133A7D;
+            font-size: 32px;
+            @media screen and (max-width: 1679px){
+                font-size: 26px;
+            }
+            @media screen and (max-width: 1480px){
+                font-size: 22px;
+            }
+            @media screen and (max-width: 1199px){
+                 font-size: 20px;
+
+            }
+        }
+
+        .tabtxt{
+            color: #3F5375;
+            font-size: 20px;
+            line-height: 2.1;
+            @media screen and (max-width: 1679px){
+                font-size: 18px;
+            }
+            @media screen and (max-width: 1480px){
+                font-size: 16px;
+            }
+            @media screen and (max-width: 1199px){
+                font-size: 14px;
+                line-height: 1.5;
+            }
+        }
+    }
+
+
+    .accordion{
+        .accordion-list{
+            background: #f6faff;
+            border: none;
+            .accordion-header{
+                background: transparent;
+            }
+
+            .accordion-body{
+                background-color: #fff;
+                padding-top: 20px;
+                p{
+
+                    padding-left: 35px;
+                    @media screen and (max-width: 1199px){
+                        padding-left: 25px;
+                    }
+                    @media screen and (max-width: 991px){
+                        padding-left: 20px;
+                    }
+                    @media screen and (max-width: 767px){
+                        padding-left: 15px;
+                    }
+                }
+            }
+
+            .accordion-header{
+
+                .accordion-icon{
+                    position: relative;
+                    &:before,
+                    &:after{
+                        content: '';
+                        width: 16px;
+                        height: 4px;
+                        background-color: #133A7D;
+                        position: absolute;
+                        transition: all ease 0.3s;
+                        @media screen and (max-width: 1679px){
+                            height: 3px;
+                        }
+                        @media screen and (max-width: 1441px){
+                            width: 14px;
+                        }
+                        @media screen and (max-width: 1199px){
+                            width: 12px;
+                            height: 2px;
+                        }
+                    }
+                    &:after{
+                        transform: rotate(90deg);
+                    }
+                }
+
+                &.active{
+                    .accordion-icon{
+                        &:after{
+                            transform: rotate( 0deg);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.desktopTab{
+    @media screen and (max-width: 991px){
+        display: none !important;
+    }
+}
+.mobAccordion{
+    @media screen and (min-width: 992px){
+        display: none !important;
+    }
+}

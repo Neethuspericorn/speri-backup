@@ -1,0 +1,364 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+.platform-security {
+  padding: 67px 0 85px;
+  background: url("../img-new/platform-security-bg.png") no-repeat right;
+  background-size: cover;
+  position: relative;
+}
+@media (max-width: 991px) {
+  .platform-security {
+    padding-bottom: 0 !important;
+  }
+}
+.platform-security .mobile-banner {
+  display: none;
+}
+@media (max-width: 991px) {
+  .platform-security .mobile-banner {
+    display: block;
+  }
+  .platform-security .mobile-banner img {
+    max-height: 70vw;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: top;
+       object-position: top;
+  }
+}
+@media (max-width: 1679px) {
+  .platform-security {
+    padding: 55px 0 73px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security {
+    padding: 50px 0 66px;
+  }
+}
+@media (max-width: 1441px) {
+  .platform-security {
+    padding: 45px 0 50px;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security {
+    padding: 40px 0;
+  }
+}
+@media (max-width: 479px) {
+  .platform-security {
+    background: url("../img-new/platform-mobile.png") no-repeat right;
+  }
+}
+.platform-security .platform-sec {
+  line-height: 59px;
+  color: #fff;
+  margin-bottom: 19px;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-sec {
+    line-height: 50px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-sec {
+    line-height: 45px;
+  }
+}
+@media (max-width: 1441px) {
+  .platform-security .platform-sec {
+    line-height: 40px;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .platform-sec {
+    line-height: 35px;
+  }
+}
+@media (max-width: 1199px) {
+  .platform-security .platform-sec {
+    line-height: 32px;
+  }
+}
+.platform-security .content-sub {
+  font: normal normal 300 22px/34px Titillium Web;
+  color: #fff;
+  margin: 0px;
+}
+@media (max-width: 1679px) {
+  .platform-security .content-sub {
+    font: normal normal 300 20px/30px Titillium Web;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .content-sub {
+    font: normal normal 300 18px/28px Titillium Web;
+  }
+}
+@media (max-width: 1441px) {
+  .platform-security .content-sub {
+    font: normal normal 300 17px/27px Titillium Web;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .content-sub {
+    font: normal normal 300 16px/26px Titillium Web;
+  }
+}
+@media (max-width: 1199px) {
+  .platform-security .content-sub {
+    font: normal normal 300 15px/25px Titillium Web;
+  }
+}
+@media (max-width: 991px) {
+  .platform-security .content-sub {
+    font: normal normal 300 14px/24px Titillium Web;
+  }
+}
+.platform-security .platform-content-left {
+  max-width: 784px;
+  width: 100%;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left {
+    max-width: 665px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left {
+    max-width: 600px;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .platform-content-left {
+    max-width: 520px;
+  }
+}
+@media (max-width: 991px) {
+  .platform-security .platform-content-left {
+    max-width: 100%;
+  }
+}
+@media (max-width: 579px) {
+  .platform-security .platform-content-left {
+    max-width: 100% !important;
+  }
+}
+.platform-security .platform-content-left .core-txt {
+  color: #3B7BF8;
+  padding: 38px 0;
+  font: normal normal 300 20px/31px Titillium Web;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 35px 0;
+    font: normal normal 300 19px/29px Titillium Web;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 30px 0;
+    font: normal normal 300 18px/28px Titillium Web;
+  }
+}
+@media (max-width: 1441px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 28px 0;
+    font: normal normal 300 17px/27px Titillium Web;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 26px 0;
+    font: normal normal 300 16px/26px Titillium Web;
+  }
+}
+@media (max-width: 1199px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 20px 0;
+    font: normal normal 300 15px/25px Titillium Web;
+  }
+}
+@media (max-width: 991px) {
+  .platform-security .platform-content-left .core-txt {
+    padding: 15px 0;
+    font: normal normal 300 14px/24px Titillium Web;
+  }
+}
+.platform-security .platform-content-left .platform-collapse {
+  max-width: 659px;
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  /* Style the accordion panel. Note: hidden by default */
+}
+.platform-security .platform-content-left .platform-collapse .acco-panel {
+  margin-bottom: 5px;
+}
+.platform-security .platform-content-left .platform-collapse .acco-panel:last-child {
+  margin-bottom: 0px;
+  border-bottom: 1px solid #28344F;
+}
+.platform-security .platform-content-left .platform-collapse .acco-head {
+  background-color: transparent;
+  color: #fff;
+  cursor: pointer;
+  padding: 15px 0px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.0588235294);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: #6D7B9B;
+  font: normal normal normal 25px/38px Titillium Web;
+  border-top: 1px solid #28344F;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head {
+    font: normal normal normal 20px/34px Titillium Web;
+    padding: 12px 0px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head {
+    font: normal normal normal 18px/30px Titillium Web;
+    padding: 8px 0px;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head {
+    font: normal normal normal 16px/28px Titillium Web;
+  }
+}
+@media (max-width: 991px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head {
+    font: normal normal normal 14px/24px Titillium Web;
+  }
+}
+.platform-security .platform-content-left .platform-collapse .acco-head:focus {
+  outline: none;
+  box-shadow: none;
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  margin-right: 21px;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon {
+    height: 20px;
+    width: 20px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon {
+    height: 15px;
+    width: 15px;
+  }
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::before, .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::after {
+  content: " ";
+  width: 25px;
+  height: 1px;
+  background-color: #415683;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transition: all 0.3s cubic-bezier(0.42, 0, 0.58, 1);
+  opacity: 1;
+  border-radius: 2px;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::before, .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::after {
+    width: 20px;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::before, .platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::after {
+    width: 15px;
+  }
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::before {
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon::after {
+  transform: translate(-50%, -50%);
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon.expanded::before {
+  transform: translate(-50%, -50%) rotate(0deg);
+}
+.platform-security .platform-content-left .platform-collapse .acco-head .expand-icon.expanded::after {
+  transform: translate(-50%, -50%) rotate(0deg);
+  opacity: 0;
+}
+.platform-security .platform-content-left .platform-collapse .acco-head.active {
+  color: #fff;
+}
+.platform-security .platform-content-left .platform-collapse .acco-head.active .expand-icon::before {
+  transform: translate(-50%, -50%) rotate(0deg);
+  display: none;
+}
+.platform-security .platform-content-left .platform-collapse .acco-head.active .expand-icon:after {
+  background-color: #fff;
+}
+.platform-security .platform-content-left .platform-collapse .acco-body {
+  padding: 0px 18px 23px 45px;
+  background-color: transparent;
+  display: none;
+  overflow: hidden;
+  font: normal normal 300 22px/34px Titillium Web;
+}
+@media (max-width: 1679px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    padding: 0px 15px 20px 37px;
+    font: normal normal 300 20px/30px Titillium Web;
+  }
+}
+@media (max-width: 1481px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    padding: 0px 15px 15px 37px;
+    font: normal normal 300 18px/28px Titillium Web;
+  }
+}
+@media (max-width: 1441px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    font: normal normal 300 17px/27px Titillium Web;
+  }
+}
+@media (max-width: 1281px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    font: normal normal 300 16px/26px Titillium Web;
+  }
+}
+@media (max-width: 1199px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    font: normal normal 300 15px/25px Titillium Web;
+  }
+}
+@media (max-width: 991px) {
+  .platform-security .platform-content-left .platform-collapse .acco-body {
+    font: normal normal 300 14px/24px Titillium Web;
+  }
+}
+.platform-security .platform-content-left .platform-collapse .acco-body.show {
+  display: block;
+  overflow: visible;
+  transition: overflow 0.5s linear;
+}
+.platform-security .platform-content-left .platform-collapse .acco-body .main-desc {
+  color: #fff;
+}
